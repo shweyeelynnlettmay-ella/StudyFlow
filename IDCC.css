@@ -87,7 +87,6 @@
     color: #f1f5f9;
   }
   
-  /* Timer styles */
   .timer-mode {
     display: flex;
     gap: 0.5rem;
@@ -223,10 +222,3 @@
     padding-top: 0.8rem;
   }
   
-  footer {
-    text-align: center;
-    padding: 1.5rem;
-    font-size: 0.8rem;
-    color: #64748b;
-    border-top: 1px solid #334155;
-  }
